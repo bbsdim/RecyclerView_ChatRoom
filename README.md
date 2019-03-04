@@ -1,1 +1,2 @@
 # RecyclerView_ChatRoom
+使用RecyclerView模擬ChatRoom畫面，並可輸入Text 訊息
